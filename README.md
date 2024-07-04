@@ -12,3 +12,6 @@ ia voobshe vahue
 ## A second level heading
 ### A third level heading
 **This is bold text**
+_thi is italic text_
+***all this text is important***
+this is <sub>subscript</sub> text
