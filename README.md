@@ -17,3 +17,10 @@ _thi is italic text_
 this is <sub>subscript</sub> text
 #### quoted text
 >this is quoted text
+some basic git commands are:
+```
+git commit
+git pull
+git push
+```
+
